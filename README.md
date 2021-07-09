@@ -24,7 +24,7 @@
 ### Installation
 
 - Install [NodeJS](https://nodejs.org/) on your computer
-- Clone this repository using `https://github.com/rozay10/server-planner.git`
+- Clone this repository using `https://github.com/devgbolade/server-planner.git`
 - Use the `.env.example` file to setup your environmental variables and rename the file to `.env`
 - Run `npm install` to install all dependencies
 - Run `npm run build` to build the project
@@ -53,7 +53,7 @@ $ npm run test
 
 | Method |             Endpoint              |                               Description                                | Access |
 | :----- | :-------------------------------: | :----------------------------------------------------------------------: | :----: |
-| `POST` | `/api/v1/compute-server-capacity` | Compute Server Capacity for hosting virtualmachines based on user inputs |  User  |
+| `POST` | `/api/v1/compute-server-capacity` | Compute Server Capacity for hosting virtualmachines based on user inputs | public |
 
 ### **Validate Rule**
 

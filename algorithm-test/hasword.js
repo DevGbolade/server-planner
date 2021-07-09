@@ -1,3 +1,5 @@
+// QUESTION ONE
+
 const words = ["the", "boy", "girl", "kiss", "then"];
 
 export const hasWord = (word) => {
